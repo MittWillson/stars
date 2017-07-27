@@ -95,4 +95,11 @@
   | [inke-ios](https://github.com/liuyujiahuan/bjsxt_ios_inke) | 仿映客直播 |
   | [dash-ios](https://github.com/Kapeli/Dash-iOS) | Dash Ios |
   
+# 通讯协议
+
+### Openfire `XMPP`
+  | name | description |
+  | ---- | ----------- |
+  | [php-openfire-restapi](https://github.com/gidkom/php-openfire-restapi) | Php的restapi库 |
+  | [Library for XMPP](https://github.com/fabiang/xmpp) | Php作为Client调用XMPP的库 |
 先整理到这里 麻痹好累 有没有自动化的。。
